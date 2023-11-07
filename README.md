@@ -1,3 +1,3 @@
 # Room_Teaching
-made it!
-https://www.youtube.com/watch?v=2QInrEaXyMo
+
+This should get everything working for the Room Database
